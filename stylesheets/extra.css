@@ -1,0 +1,12 @@
+/* Threat-Informed Vulnerability Intelligence — Custom Styles */
+h1, h2, h3, h4, h5 { color: rgb(103, 58, 183); }
+
+.md-typeset table:not([class]) th {
+  background-color: #4527a0;
+  color: white;
+  font-weight: bold;
+}
+.md-typeset table:not([class]) tr:nth-child(even) { background-color: #ede7f6; }
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) tr:nth-child(even) { background-color: #1a1a2e; }
+.md-typeset table:not([class]) td,
+.md-typeset table:not([class]) th { border: 1px solid #b39ddb; }
