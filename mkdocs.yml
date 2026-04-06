@@ -1,0 +1,121 @@
+site_name: Threat-Informed Vulnerability Intelligence
+site_url: https://github.com/maorkuriel/threat-informed-vuln-intel
+site_description: AI-powered platform for threat-informed vulnerability validation, TTP mapping, and remediation operations.
+site_author: Maor Kuriel
+
+theme:
+  name: material
+  custom_dir: docs/overrides
+  icon:
+    logo: material/shield-bug
+  features:
+    - navigation.expand
+    - navigation.footer
+    - navigation.tabs
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.code.copy
+  language: en
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
+      primary: deep-purple
+      accent: cyan
+    - scheme: slate
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
+      primary: deep-purple
+      accent: lime
+
+markdown_extensions:
+  - pymdownx.snippets:
+      auto_append:
+        - docs/includes/abbreviations.md
+  - abbr
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.mark
+  - attr_list
+  - md_in_html
+  - tables
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - toc:
+      permalink: true
+  - footnotes
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - https://unpkg.com/tablesort@5.3.0/dist/tablesort.min.js
+  - javascripts/tablesort.js
+
+watch:
+  - docs/includes
+  - docs
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/maorkuriel/threat-informed-vuln-intel
+      name: GitHub
+    - icon: fontawesome/solid/bug
+      link: https://github.com/maorkuriel/threat-informed-vuln-intel/issues
+      name: Report an Issue
+
+copyright: Copyright &copy; Maor Kuriel
+
+plugins:
+  - search
+
+nav:
+  - Home: index.md
+  - Introduction:
+      - The Problem: introduction/the_problem.md
+      - From Detection to Proof: introduction/detection_to_proof.md
+      - Research Foundation: introduction/research_foundation.md
+      - Architecture Overview: introduction/architecture.md
+  - Exploit Validation Agent:
+      - Overview: agent/overview.md
+      - Multi-Agent Reasoning: agent/multi_agent.md
+      - Source-to-Sink Analysis: agent/source_sink.md
+      - Sandbox Execution: agent/sandbox.md
+      - Exploit Report: agent/exploit_report.md
+  - TTP Mapping:
+      - Overview: ttp_mapping/overview.md
+      - CVE to ATT&CK: ttp_mapping/cve_to_attack.md
+      - Validated Mappings: ttp_mapping/validated_mappings.md
+      - Breach Correlation: ttp_mapping/breach_correlation.md
+  - Remediation Operations:
+      - Overview: remediation/overview.md
+      - Security Tasks: remediation/security_tasks.md
+      - AI-Driven Fix Generation: remediation/fix_generation.md
+      - Pull Request Automation: remediation/pr_automation.md
+  - Compliance Automation:
+      - Overview: compliance/overview.md
+      - NIST SSDF Mapping: compliance/nist_ssdf.md
+      - SLSA & OpenSSF: compliance/slsa_openssf.md
+      - Automated Evidence: compliance/audit_evidence.md
+  - Setup & Configuration:
+      - Prerequisites: setup/prerequisites.md
+      - Quick Start: setup/quickstart.md
+      - Agent Configuration: setup/agent_config.md
+      - Running the Pipeline: setup/running.md
+  - Annex:
+      - Glossary: annex/glossary.md
+      - References: annex/references.md
