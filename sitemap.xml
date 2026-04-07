@@ -2,118 +2,122 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
+    </url>
+    <url>
+         <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/walkthrough/</loc>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/agent/exploit_report/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/agent/multi_agent/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/agent/overview/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/agent/sandbox/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/agent/source_sink/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/annex/glossary/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/annex/references/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/compliance/audit_evidence/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/compliance/nist_ssdf/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/compliance/overview/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/compliance/slsa_openssf/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/includes/abbreviations/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/introduction/architecture/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/introduction/detection_to_proof/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/introduction/research_foundation/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/introduction/the_problem/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/remediation/fix_generation/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/remediation/overview/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/remediation/pr_automation/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/remediation/security_tasks/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/setup/agent_config/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/setup/prerequisites/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/setup/quickstart/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/setup/running/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/ttp_mapping/breach_correlation/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/ttp_mapping/cve_to_attack/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/ttp_mapping/overview/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
     <url>
          <loc>https://github.com/maorkuriel/threat-informed-vuln-intel/ttp_mapping/validated_mappings/</loc>
-         <lastmod>2026-04-06</lastmod>
+         <lastmod>2026-04-07</lastmod>
     </url>
 </urlset>
