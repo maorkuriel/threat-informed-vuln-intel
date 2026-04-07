@@ -90,6 +90,7 @@ nav:
       - From Detection to Proof: introduction/detection_to_proof.md
       - Research Foundation: introduction/research_foundation.md
       - Architecture Overview: introduction/architecture.md
+  - Guided Walkthrough: walkthrough.md
   - Exploit Validation Agent:
       - Overview: agent/overview.md
       - Multi-Agent Reasoning: agent/multi_agent.md
